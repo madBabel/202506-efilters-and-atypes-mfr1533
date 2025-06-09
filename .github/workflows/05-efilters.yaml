@@ -5,6 +5,8 @@ on:
             - features
 
 jobs:
-    echo:
+    echo:   
         runs-on: ubuntu-latest
-        run: echo "Running whenever branch is features"
+        steps:
+            - name: echo
+              run: echo "Running whenever branch is features"
