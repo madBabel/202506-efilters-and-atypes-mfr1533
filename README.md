@@ -1,7 +1,9 @@
 ## Objetivo
 explorar las diferentes formas en que podemos utilizar event-filters y activity types  para especificar mejor cuándo se ejecutan los workflows de GitHub Actions.
 
+ - Edidtado en *features*
 
+ 
 ## Tareas
 
 
